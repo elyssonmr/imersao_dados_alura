@@ -1,3 +1,3 @@
 streamlit
-pandas
+pandas<3.0
 plotly
